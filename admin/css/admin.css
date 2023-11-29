@@ -1,0 +1,31 @@
+.btn_event {
+    text-align: center;
+}
+
+.btn_event button {
+    padding: 10px 20px;
+    margin: 20px;
+    color: aliceblue;
+    background-color: rgb(7, 142, 81);
+    border-radius: 20px;
+    border: none;
+}
+
+/* sửa bài viết */
+.box_file {
+    display: flex;
+
+}
+
+.box_file input {}
+
+.box_file img {
+    width: 300px;
+    height: 200px;
+    margin-left: 10px;
+}
+
+.input-group-prepend {
+    height: 40px;
+    position: a;
+}
